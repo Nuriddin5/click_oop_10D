@@ -13,6 +13,9 @@ public class User {
     private Integer smsCode;
     private Role role;
 
+    //oneToMany
+//    Card[] cards; kerak emas, arxitektura bo'yicha noto'g'ri
+
     public User() {
     }
 

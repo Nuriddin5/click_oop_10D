@@ -18,5 +18,7 @@ public class Card {
 
     private CardType type;
 
-    private ArrayList<User> holders;
+    //manyToOne
+    User holder;
+
 }
