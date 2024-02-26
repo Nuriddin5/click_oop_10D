@@ -14,6 +14,4 @@ import lombok.*;
 public class Category {
     private Long id;
     String name;
-
-
 }
